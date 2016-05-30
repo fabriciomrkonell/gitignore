@@ -1,1 +1,1 @@
-Reference file .gitignore for my projects.
+Reference file .gitignore for projects.
